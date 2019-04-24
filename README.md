@@ -5,13 +5,12 @@ Este repositorio resume el contenido de la ponencia “Método y estrategias de 
 
 **CONTENIDO DEL REPOSITORIO**
 
-La presentación [mundo_digital_y_metodo_cientifico_en_el_aula.pdf](https://github.com/valba/PExCID-2019-DLSMC/blob/master/mundo_digital_y_metodo_cientifico_en_el_aula.pdf)
+1. La presentación [mundo_digital_y_metodo_cientifico_en_el_aula.pdf](https://github.com/valba/PExCID-2019-DLSMC/blob/master/mundo_digital_y_metodo_cientifico_en_el_aula.pdf)
  incluye el contenido de la presentación y las referencias bibliográficas más importantes.
 
-La bibliografía  
-[MÉTODO CIENTÍFICO ZARAGOZA 2019.rdf](https://github.com/valba/PExCID-2019-DLSMC/blob/master/M%C3%89TODO%20CIENT%C3%8DFICO%20ZARAGOZA%202019.rdf) con las referencias a artículos científicos. Puede importarse directamente a Zotero.
+2. La bibliografía [MÉTODO CIENTÍFICO ZARAGOZA 2019.rdf](https://github.com/valba/PExCID-2019-DLSMC/blob/master/M%C3%89TODO%20CIENT%C3%8DFICO%20ZARAGOZA%202019.rdf) con las referencias a artículos científicos. Puede importarse directamente a [Zotero](https://www.zotero.org/download/).
 
-La [Ficha de Puntuación CRAAP](https://github.com/valba/PExCID-2019-DLSMC/blob/master/Ficha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio)  en español. Se puede visualizar y modificar desde [draw.io](https://www.draw.io/?client=1#Hvalba%2FPExCID-2019-DLSMC%2Fmaster%2FFicha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio).
+3. La [Ficha de Puntuación CRAAP](https://github.com/valba/PExCID-2019-DLSMC/blob/master/Ficha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio)  en español. Se puede importar el fichero y modificar el diagrama directamente desde [draw.io](https://draw.io/), o bien, en local desde la aplicación [draw.io Desktop](https://support.draw.io/display/DO/Using+draw.io+in+Offline+Mode).
 
-Para aquellas personas que no conozcan el uso de Git, se recomienda descargar todo el repositorio para acceder a la información.
+Para aquellas personas que no conozcan el uso de Git, se recomienda descargar todo el repositorio y trabajar en local.
 
