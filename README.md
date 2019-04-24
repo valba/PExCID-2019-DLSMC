@@ -11,7 +11,7 @@ La presentación [mundo_digital_y_metodo_cientifico_en_el_aula.pdf](https://gith
 La bibliografía  
 [MÉTODO CIENTÍFICO ZARAGOZA 2019.rdf](https://github.com/valba/PExCID-2019-DLSMC/blob/master/M%C3%89TODO%20CIENT%C3%8DFICO%20ZARAGOZA%202019.rdf) con las referencias a artículos científicos. Puede importarse directamente a Zotero.
 
-La [Ficha de Puntuación CRAAP](https://github.com/valba/PExCID-2019-DLSMC/blob/master/Ficha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio)  en español. Se puede visualizar y modificar desde [draw.io](https://draw.io).
+La [Ficha de Puntuación CRAAP](https://github.com/valba/PExCID-2019-DLSMC/blob/master/Ficha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio)  en español. Se puede visualizar y modificar desde [draw.io](https://www.draw.io/?client=1#Hvalba%2FPExCID-2019-DLSMC%2Fmaster%2FFicha%20de%20Puntuaci%C3%B3n%20CRAAP.drawio).
 
 Para aquellas personas que no conozcan el uso de Git, se recomienda descargar todo el repositorio para acceder a la información.
 
